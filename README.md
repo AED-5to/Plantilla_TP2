@@ -34,5 +34,10 @@ PB3 -> LED 6
 PB4 -> LED 7
 
 ```
+## Pinout
 
 ![PINOUT](Arduino-Nano-Pinout.png "pinout")
+
+## Circuito
+
+![Circuito](circuito.png "circuito")
